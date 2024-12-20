@@ -1,4 +1,5 @@
-"""odometer_calculation controller."""
+from controller import Robot
+
 
 
 def run_robot(robot):
