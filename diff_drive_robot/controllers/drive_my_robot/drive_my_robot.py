@@ -1,4 +1,4 @@
-"""drive_my_robot controller."""
+from controller import Robot
 
 
 if __name__ == "__main__":
